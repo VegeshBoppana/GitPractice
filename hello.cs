@@ -3,3 +3,15 @@ Console.WritweLine("Hello");
 
 
 string s = Console.ReadLine();
+
+Console.WriteLine(s);
+
+
+
+
+
+
+class Main
+{
+
+}
