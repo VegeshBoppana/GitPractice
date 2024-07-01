@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System;
 Console.WritweLine("Hello");
 
@@ -15,3 +16,6 @@ class Main
 {
 
 }
+=======
+System.Console.WritweLine("Hello");
+>>>>>>> 4e986a9 (first-commit)
