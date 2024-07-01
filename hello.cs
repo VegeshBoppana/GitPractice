@@ -1,1 +1,5 @@
-System.Console.WritweLine("Hello");
+using System;
+Console.WritweLine("Hello");
+
+
+string s = Console.ReadLine();
